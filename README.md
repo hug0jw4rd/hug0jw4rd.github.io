@@ -4,6 +4,16 @@
 
 ---
 
+## 🛠️ Technical Skills
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Design & CAD** | SolidWorks, Autodesk Fusion 360, Figma, Canva |
+| **Programming** | C++, Python, Arduino, MATLAB |
+| **Manufacturing** | 3D Printing (FDM/SLA), Laser Cutting, Lathe & Mill Operation, Manual Machining, Soldering |
+
+---
+
 ## 🚀 Projects
 
 ### [3D-Printed Bluetooth RC Rover](./rover-project/)
