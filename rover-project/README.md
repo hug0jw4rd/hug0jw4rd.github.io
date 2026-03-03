@@ -1,6 +1,6 @@
 ## 3D-Printed Bluetooth RC Rover
 
-A custom-built, remote-controlled rover featuring a 3D-printed chassis, powered by an **XIAO ESP32C3** and programmed in **C++**. This project involved designing the physical structure, writing the motor control firmware, and implementing a **BLE (Bluetooth Low Energy)** interface for smartphone control.
+A custom-built, remote-controlled rover featuring a 3D-printed chassis, powered by an **XIAO ESP32C3** and programmed in **C++**. This project involved designing the physical structure, writing the motor control firmware, and implementing a **BLE (Bluetooth Low Energy)** interface for smartphone control. The code I made for this project can be accessed [here](./code.ino).
 
 ### Challenges & Technical Insights
 
