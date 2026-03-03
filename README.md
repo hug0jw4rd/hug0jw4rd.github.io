@@ -8,7 +8,6 @@
 
 ### [3D-Printed Bluetooth RC Rover](./rover-project/)
 
-![Rover Preview](PASTE_LINK_HERE)
 
 **Quick Overview:**
 A custom-built rover featuring an XIAO ESP32C3, C++ firmware, and BLE smartphone integration. Optimized for material efficiency and equipped with safety fail-safes.
