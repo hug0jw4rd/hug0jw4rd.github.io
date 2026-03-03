@@ -21,3 +21,12 @@ Our team took second in our category by redesigning navigation for extreme mount
 
 ---
 
+---
+
+## 📫 Connect with Me
+
+* **Email:** [hugojward@outlook.com](mailto:hugojward@outlook.com)
+* **LinkedIn:** [Hugo Jacquemier-Ward](https://www.linkedin.com/in/hugo-jacquemier-ward-522866294/)
+
+
+<small>Currently based in London, UK | Studying Design Engineering at Imperial College</small>
