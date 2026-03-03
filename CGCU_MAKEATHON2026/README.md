@@ -3,9 +3,9 @@
 
 ---
 
-| Prototype Assembly | Haptic Array Detail |
-| :---: | :---: |
-| <img src="INSERT_IMAGE_LINK_1" width="350"> | <img src="INSERT_IMAGE_LINK_2" width="350"> |
+| Group Photo | Visual Feedback Prototype | Device Testing |
+| :---: | :---: | :---: | 
+| <img src="https://github.com/user-attachments/assets/50abb4ea-565f-475a-8e01-a1da1587111d" width="350"> | <img src="https://github.com/user-attachments/assets/e2c4b50a-fe56-4a6e-927d-64acc87d2d1a" width="350"> | <img src="https://github.com/user-attachments/assets/37554d7c-4425-4250-a723-aa31df8110ef" width="350"> |
 
 ---
 ### Project Overview
