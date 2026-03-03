@@ -12,15 +12,12 @@
 **Quick Overview:**
 A custom-built rover featuring an XIAO ESP32C3, C++ firmware, and BLE smartphone integration. Optimized for material efficiency and equipped with safety fail-safes.
 
-[**View Technical Breakdown →**](./rover-project)
+---
+
+### [IMPERIAL CGCU FEB 2026 MAKEATHON](./next-project)
+
+**Quick Overview:**
+Our team came second in our category by completely redesigning navigation for extreme mountaineering conditions.
 
 ---
 
-### [Next Project Title](./next-project)
-
-![Project Visual](PASTE_LINK_HERE)
-
-**Quick Overview:**
-Brief one-sentence summary of your next project.
-
-[**View Technical Breakdown →**](./next-project)
