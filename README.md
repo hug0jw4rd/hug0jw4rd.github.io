@@ -1,6 +1,6 @@
 # Hugo Jacquemier-Ward
 ### MEng Design Engineering | Imperial College London
-*Focusing on Robotics, Human-Centred Design, and Physical Product Development*
+*Focusing on Robotics, Human-Centred Design, and Product Development*
 
 ---
 
