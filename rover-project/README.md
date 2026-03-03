@@ -20,5 +20,11 @@ A custom-built, remote-controlled rover featuring a 3D-printed chassis, powered 
 
 - **Range Optimization:** To stabilize the connection, I integrated an **external antenna**. This simple hardware upgrade significantly boosted the signal reliability and operational range during final testing.
 
+---
+
 ### 💻 System Details
 <small>View project logic [here](./code.ino)</small>
+
+---
+
+[**← Back to Projects**](../)
