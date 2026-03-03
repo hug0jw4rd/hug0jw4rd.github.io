@@ -17,7 +17,7 @@ A custom-built rover featuring an XIAO ESP32C3, C++ firmware, and BLE smartphone
 ### [IMPERIAL CGCU FEB 2026 MAKEATHON](./next-project)
 
 **Quick Overview:**
-Our team came second in our category by completely redesigning navigation for extreme mountaineering conditions.
+Our team took second in our category by redesigning navigation for extreme mountaineering. We designed and implemented continuous, haptic and visual feedback in mountainwear to safely bring our users back down the mountain.
 
 ---
 
