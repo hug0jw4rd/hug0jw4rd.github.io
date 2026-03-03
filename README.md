@@ -6,7 +6,7 @@
 
 ## 🚀 Projects
 
-### [3D-Printed Bluetooth RC Rover](./rover-project)
+### [3D-Printed Bluetooth RC Rover](./rover-project/)
 
 ![Rover Preview](PASTE_LINK_HERE)
 
