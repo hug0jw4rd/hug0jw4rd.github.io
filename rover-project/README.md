@@ -4,7 +4,7 @@
 | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/c56c0aa0-dfb9-4a0c-a219-082ce9b13a1d" width="350"> | <img src="https://github.com/user-attachments/assets/2bcaca4e-95ad-427b-8196-6fb8d2cfd5fb" width="350"> |
 
-A custom-built, remote-controlled rover featuring a 3D-printed chassis, powered by an **XIAO ESP32C3** and programmed in **C++**. This project involved designing the physical structure, writing the motor control firmware, and implementing a **BLE (Bluetooth Low Energy)** interface for smartphone control. The code I made for this project can be accessed [here](./code.ino).
+A custom-built, remote-controlled rover featuring a 3D-printed chassis, powered by an **XIAO ESP32C3** and programmed in **C++**. This project involved designing the physical structure, writing the motor control firmware, and implementing a **BLE (Bluetooth Low Energy)** interface for smartphone control.
 
 ### Challenges & Technical Insights
 
@@ -19,3 +19,6 @@ A custom-built, remote-controlled rover featuring a 3D-printed chassis, powered 
 - **Hardware Recovery:** After frying the original microcontroller during testing, I had to source a compatible replacement, **resolder the entire circuit**, and reconfigure the code's pin definitions to match the new hardware layout.
 
 - **Range Optimization:** To stabilize the connection, I integrated an **external antenna**. This simple hardware upgrade significantly boosted the signal reliability and operational range during final testing.
+
+### 💻 System Details
+<small>View project logic [here](./code.ino)</small>
