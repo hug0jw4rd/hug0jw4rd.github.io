@@ -21,10 +21,12 @@ Our team took second in our category by redesigning navigation for extreme mount
 
 ---
 
-### [UniBots UK Regionals: The "Pivot" Robot](./UNIBOTS2026/)
+### [UniBots UK Regionals: The "Pivot" Robot](./UNIBOTS26/)
 
 **Quick Overview:**
-Was the lead mechanical engineer for our team who designed an autonomous robot that competed in an arena to pick up and deposit the most number of balls during a match, securing **3rd place out of 35 teams**. 
+I was the lead mechanical engineer for our team who designed an autonomous robot that competed in an arena to pick up and deposit the most number of balls during a match, securing **3rd place out of 35 teams**. 
+
+---
 
 ---
 
