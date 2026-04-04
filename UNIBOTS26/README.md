@@ -3,11 +3,12 @@
 
 ---
 
-| Robot CAD Assembly | Prototype Testing | Match Day |
+| Team Photo | Certificate | Matchday |
 | :---: | :---: | :---: | 
-| [INSERT_IMAGE_1] | [INSERT_IMAGE_2] | [INSERT_IMAGE_3] |
+| <img src="https://github.com/user-attachments/assets/2be0659e-6a7f-4989-b402-e415bac9be4c" width="350"> | <img src="https://github.com/user-attachments/assets/d88db77d-1b7d-4e98-9b96-93b3080ae183" width="350"> | <img src="https://github.com/user-attachments/assets/50393c28-6288-483e-b77e-f00a448355b1" width="350"> |
 
 ---
+
 
 ### Project Overview
 As **Head of Mechanical Engineering**, I led the design and fabrication of an autonomous robot for the 2026 UniBots challenge: collecting and dispensing balls of different weight and sizes in a congested arena. The project culminated in a **3rd place overall finish** after a strategic pivot on competition day.
@@ -15,7 +16,7 @@ As **Head of Mechanical Engineering**, I led the design and fabrication of an au
 ### Engineering Challenges & Strategic Pivots
 
 * **The Problem (Design Rigidity):** In the final hours before our first match, our delivery mechanism failed due to improper assembly. A lot of the other teams had similar failures, a lot of whom tried over-tuning failing systems.
-* **The Solution (The "Strip-Down" Pivot):** I facilitated a team-wide decision to remove the primary collecting and dispensing mechanism entirely. We pivoted to prioritising high-speed collection, utilising a magnetic fail-safe I had designed under the chassis. This reduced weight, lowered the centre of gravity, and allowed us to secure a win by out-collecting opponents and denying them scoring opportunities.
+* **The Solution (The "Strip-Down" Pivot):** I facilitated a team-wide decision to remove the primary collecting and dispensing mechanism entirely. We pivoted to prioritising high-speed collection, utilising a magnetic fail-safe I had designed under the chassis. This, along side the removal of electrical housing (replacing it with an IKEA plastic bag) reduced weight, lowered the centre of gravity, and allowed us to secure a win by out-collecting opponents and denying them scoring opportunities.
 
 * **The Problem (CAD/CAM Workflow Friction):** Transitioning from SolidWorks to **Autodesk Fusion** while managing collaborative cloud assemblies led to version control conflicts and "blind" component editing.
 * **The Solution (Design for Assembly):** After hours of work I learnt how to work around the file errors and ensured the errors didn't repeat themselves in future component designs.
