@@ -30,8 +30,25 @@ Managing a team of peers with other priorities requires more than just technical
 
 ---
 
+---
+
 ### 💻 Technical Assets
-<small>View the final CAD assembly [here](./unibots_assembly)</small>
+<div class="sketchfab-embed-wrapper" style="margin: 20px 0; border-radius: 8px; overflow: hidden; border: 1px solid #333;">
+    <iframe 
+        title="Unibots Robot V25" 
+        frameborder="0" 
+        allowfullscreen 
+        mozallowfullscreen="true" 
+        webkitallowfullscreen="true" 
+        allow="autoplay; fullscreen; xr-spatial-tracking" 
+        xr-spatial-tracking 
+        execution-while-out-of-viewport 
+        execution-while-not-rendered 
+        web-share 
+        src="https://sketchfab.com/models/7d55fc95832f4ede945ca7853df4f0e4/embed"
+        style="width: 100%; height: 450px;"> 
+    </iframe>
+</div>
 
 ---
 [**← Back to Projects**](../)
