@@ -13,16 +13,35 @@
 ### Project Overview
 As **Head of Mechanical Engineering**, I led the design and fabrication of an autonomous robot for the 2026 UniBots challenge: collecting and dispensing balls of different weight and sizes in a congested arena. The project culminated in a **3rd place overall finish** after a strategic pivot on competition day.
 
+<style>
+  .challenge-container {
+    margin-bottom: 25px; /* Adjust this for the gap between pairs */
+    list-style-type: disc;
+    display: list-item;
+    margin-left: 20px;
+  }
+  .challenge-item {
+    display: block;
+    margin-bottom: 2px; /* Tight spacing within the pair */
+  }
+</style>
+
 ### Engineering Challenges & Strategic Pivots
 
-* **The Problem (Design Rigidity):** In the final hours before our first match, our delivery mechanism failed due to improper assembly. A lot of the other teams had similar failures, a lot of whom tried over-tuning failing systems.
-* **The Solution (The "Strip-Down" Pivot):** I facilitated a team-wide decision to remove the primary collecting and dispensing mechanism entirely. We pivoted to prioritising high-speed collection, utilising a magnetic fail-safe I had designed under the chassis. This, along side the removal of electrical housing (replacing it with an IKEA plastic bag) reduced weight, lowered the centre of gravity, and allowed us to secure a win by out-collecting opponents and denying them scoring opportunities.
+<div class="challenge-container">
+  <span class="challenge-item"><strong>The Problem (Design Rigidity):</strong> In the final hours before our first match, our delivery mechanism failed due to improper assembly. While other teams over-tuned failing systems, we pivoted.</span>
+  <span class="challenge-item"><strong>The Solution (The “Strip-Down” Pivot):</strong> I facilitated the removal of the primary mechanism, replacing electrical housing with an IKEA bag to lower the center of gravity and utilizing a custom magnetic fail-safe for high-speed collection.</span>
+</div>
 
-* **The Problem (CAD/CAM Workflow Friction):** Transitioning from SolidWorks to **Autodesk Fusion** while managing collaborative cloud assemblies led to version control conflicts and "blind" component editing.
-* **The Solution (Design for Assembly):** After hours of work I learnt how to work around the file errors and ensured the errors didn't repeat themselves in future component designs.
+<div class="challenge-container">
+  <span class="challenge-item"><strong>The Problem (CAD/CAM Workflow Friction):</strong> Transitioning from SolidWorks to <strong>Autodesk Fusion</strong> led to version control conflicts and “blind” component editing in cloud assemblies.</span>
+  <span class="challenge-item"><strong>The Solution (Design for Assembly):</strong> I established a new workflow to bypass file sync errors, ensuring these versioning conflicts were neutralized for all subsequent designs.</span>
+</div>
 
-* **The Problem (The "CAD Trap"):** We spent excessive time perfecting the digital design, which delayed physical testing. This resulted in discovering tolerance issues only during the final assembly.
-* **The Solution (Rapid Prototyping Mentality):** I will make sure to carry out more testing for future projects and before the finals this summer.
+<div class="challenge-container">
+  <span class="challenge-item"><strong>The Problem (The “CAD Trap”):</strong> Excessive digital perfecting delayed physical testing, resulting in tolerance issues discovered only during final assembly.</span>
+  <span class="challenge-item"><strong>The Solution (Rapid Prototyping Mentality):</strong> I shifted the roadmap to prioritize "fail-fast" physical testing, implementing mandatory hardware validation before the summer finals.</span>
+</div>
 
 ### 👥 Leadership & Project Management
 Managing a team of peers with other priorities requires more than just technical skill; it requires organisation and strong communication skills. 
