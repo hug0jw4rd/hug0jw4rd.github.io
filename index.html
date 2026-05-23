@@ -149,6 +149,54 @@
     </ul>
 
     <small>Currently based in London, UK | Studying Design Engineering at Imperial College</small>
+    <!-- ... Your existing content (Connect with Me, small text, etc.) ... -->
+    <small>Currently based in London, UK | Studying Design Engineering at Imperial College</small>
+
+    <!-- PASTE THE ENTIRE BACK-TO-TOP BLOCK HERE -->
+    <!-- Back to Top Button HTML -->
+    <button id="backToTop" title="Go to top">↑</button>
+
+    <!-- Back to Top Button CSS -->
+    <style>
+        #backToTop {
+            display: none; 
+            position: fixed; 
+            bottom: 30px; 
+            right: 30px; 
+            z-index: 99; 
+            border: none; 
+            outline: none; 
+            background: linear-gradient(120deg, #155799, #159957); 
+            color: white; 
+            cursor: pointer; 
+            width: 50px;
+            height: 50px;
+            border-radius: 50%; 
+            font-size: 20px;
+            font-weight: bold;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+            transition: opacity 0.3s, transform 0.3s;
+        }
+        #backToTop:hover {
+            transform: scale(1.1);
+        }
+    </style>
+
+    <!-- Back to Top Button JavaScript -->
+    <script>
+        const backToTopButton = document.getElementById("backToTop");
+        window.onscroll = function() { scrollFunction(); };
+        function scrollFunction() {
+            if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
+                backToTopButton.style.display = "block";
+            } else {
+                backToTopButton.style.display = "none";
+            }
+        }
+        backToTopButton.addEventListener("click", function() {
+            window.scrollTo({ top: 0, behavior: "smooth" });
+        });
+    </script>
 
 </body>
 </html>
